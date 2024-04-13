@@ -1,2 +1,2 @@
 # Lab9
-here it is 
+here it is , input.txt is the file that will be read.
